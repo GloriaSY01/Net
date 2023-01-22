@@ -1,0 +1,7 @@
+﻿  client.cpp
+D:\homework\network\bighomework\3_3\Client33\Client33\client.cpp(380,18): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+D:\homework\network\bighomework\3_3\Client33\Client33\client.cpp(543,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\homework\network\bighomework\3_3\Client33\Client33\client.cpp(562,34): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\homework\network\bighomework\3_3\Client33\Client33\client.cpp(590,34): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\homework\network\bighomework\3_3\Client33\Client33\client.cpp(452,7): warning C4101: “c”: 未引用的局部变量
+  Client33.vcxproj -> D:\homework\network\bighomework\3_3\Client33\Debug\Client33.exe

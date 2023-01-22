@@ -1,0 +1,3 @@
+﻿  client.cpp
+D:\homework\network\bighomework\3_1\my_project\my_client\Client\Client\client.cpp(264,10): warning C4101: “c”: 未引用的局部变量
+  Client.vcxproj -> D:\homework\network\bighomework\3_1\my_project\my_client\Client\Debug\Client.exe
