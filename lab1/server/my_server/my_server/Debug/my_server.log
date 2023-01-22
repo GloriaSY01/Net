@@ -1,0 +1,4 @@
+﻿  server.cpp
+D:\homework\network\lab1\server\my_server\my_server\server.cpp(68): warning C4715: “target_user”: 不是所有的控件路径都返回值
+D:\homework\network\lab1\server\my_server\my_server\server.cpp(58): warning C4715: “newname”: 不是所有的控件路径都返回值
+  my_server.vcxproj -> D:\homework\network\lab1\server\my_server\Debug\my_server.exe
